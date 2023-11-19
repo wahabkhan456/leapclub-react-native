@@ -1,4 +1,4 @@
-# leap-club-assignment
+# leapclub-react-native
 
 # Run
 * npm install
